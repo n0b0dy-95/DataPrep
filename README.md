@@ -43,7 +43,7 @@ DataPrep is a GUI-based Python application for preprocessing tabular data, speci
 MolPrep is released under the MIT License, fostering open and collaborative software development.
 
 ## Acknowledgments
-A heartfelt thanks to the RDKit community and all contributors for their invaluable resources and support. Your inspiration drives innovation!
+A heartfelt thanks to the community and all contributors for their invaluable resources and support. Your inspiration drives innovation!
 
 ## Developed by
  SUVANKAR BANERJEE 
