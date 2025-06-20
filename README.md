@@ -1,4 +1,4 @@
-                                                            ## DataPrep v0.2 ##
+## DataPrep v0.2 ##
 
 DataPrep is a GUI-based Python application for preprocessing tabular data, specifically designed to handle missing values, zero-variance features, and high-correlation removal. It allows users to load CSV/Excel files, configure preprocessing settings, and save processed data.
 
